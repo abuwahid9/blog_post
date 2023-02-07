@@ -38,7 +38,7 @@
                     <i class="fas fa-newspaper"></i>
                     <span>Post</span></a>
             </li>
-            <li class="nav-item ">
+            <li class="nav-item <?php echo isset($title) && $title =='user'?'active' : ''?> ">
                 <a class="nav-link" href="user_details.php">
                 <i class="fas fa-users"></i>
                     <span>Users</span></a>

@@ -1,5 +1,5 @@
 <?php
-$title = 'post';
+$title = 'user';
 include "layout/head.php";
 ?>
 
