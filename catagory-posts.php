@@ -3,6 +3,7 @@
 
 <head>
 
+<?php $title = 'catagory posts';?>
   <?php include "layout/head.php" ?>
 </head>
 

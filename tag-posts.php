@@ -3,6 +3,7 @@
 
 <head>
 
+<?php $title = 'tag posts';?>
   <?php include "layout/head.php" ?>
 </head>
 

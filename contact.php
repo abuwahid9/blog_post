@@ -3,6 +3,7 @@
 
 <head>
 
+<?php $title = 'contects';?>
   <?php include "layout/head.php" ?>
 </head>
 

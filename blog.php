@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-
+<?php $title = 'blog';?>
   <?php include "layout/head.php" ?>
 </head>
 

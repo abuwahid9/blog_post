@@ -3,6 +3,7 @@
 
 <head>
 
+<?php $title = 'post details';?>
   <?php include "layout/head.php" ?>
 
 </head>

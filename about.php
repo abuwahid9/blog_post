@@ -3,7 +3,10 @@
 
 <head>
 
-  <?php include "layout/head.php" ?>
+  <?php 
+  $title = 'about';
+  include "layout/head.php" 
+  ?>
 </head>
 
 <body>

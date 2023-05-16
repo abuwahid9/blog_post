@@ -23,7 +23,7 @@ date_default_timezone_set('Asia/Dhaka');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>MAIN PENAL | <?php echo ucfirst($title); ?></title>
+    <title>MAIN PENAL | <?php echo ucfirst($title);?></title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

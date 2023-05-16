@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head></head>
-<?php include "layout/head.php" ?>
+<head>
+<?php 
+$title = 'Home';
+include "layout/head.php" ?>
 </head>
 
 <body>
